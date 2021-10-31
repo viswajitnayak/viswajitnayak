@@ -19,6 +19,16 @@ password : *ubuntu*
 **check installed java version.**  
 java -version  
 
+**If you get an error like below that means since this is a new user, java is not installed:**  
+java --version  
+Unrecognized option: --version  
+Error: Could not create the Java Virtual Machine.  
+Error: A fatal exception has occurred. Program will exit.  
+
+**To install java use any of the below commands:**  
+*sudo apt install default-jre*  
+*sudo apt install openjdk-11-jre-headless*  
+*sudo apt install openjdk-8-jre-headless*  
 
 **To create a new user in ubuntu linux distro issue the below command:**  
 *sudo adduser \<username\>*  
