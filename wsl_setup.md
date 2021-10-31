@@ -46,6 +46,15 @@ You can find hadoop latest releases from here [Hadoop latest releases](https://h
 **Copy the mirror link name like below**  
 https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.1/hadoop-3.3.1-src.tar.gz
 
+**Download the latest binary from internet**  
+*wget http://mirror.intergrid.com.au/apache/hadoop/common/hadoop-3.3.0/hadoop-3.3.0.tar.gz*
+
+
+**Once the download is complete check the bytesize:**  
+*ls -lrt hadoop-3.3.0.tar.gz*  
+*-rw-r--r-- 1 ubuntu_bash ubuntu_bash 500749234 Jul 15  2020 hadoop-3.3.0.tar.gz*  
+
+
 **Install ssh with the below command:**  
 *sudo apt-get install ssh*  
 
@@ -64,10 +73,3 @@ https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.1/hadoop-3.3.1-sr
 **For doing sudo login by any other user having root access. The sudo command for changing to root is :**  
 *sudo su*  
 
-**Download the latest binary from internet**  
-*wget http://mirror.intergrid.com.au/apache/hadoop/common/hadoop-3.3.0/hadoop-3.3.0.tar.gz*
-
-
-**Once the download is complete check the bytesize:**  
-*ls -lrt hadoop-3.3.0.tar.gz*  
-*-rw-r--r-- 1 ubuntu_bash ubuntu_bash 500749234 Jul 15  2020 hadoop-3.3.0.tar.gz*  
