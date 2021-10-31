@@ -17,4 +17,12 @@ password : *ubuntu*
 *sudo apt update*  
 
 **check installed java version.**  
-java -version
+java -version  
+
+
+**To create a new user in ubuntu linux distro issue the below command:**  
+*sudo adduser \<username\>*  
+
+**Examples:**  
+*sudo adduser ubuntu_ksh*  
+*sudo adduser ubuntu_bash*  
