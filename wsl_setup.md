@@ -66,3 +66,8 @@ https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.1/hadoop-3.3.1-sr
 
 **Download the latest binary from internet**  
 *wget http://mirror.intergrid.com.au/apache/hadoop/common/hadoop-3.3.0/hadoop-3.3.0.tar.gz*
+
+
+**Once the download is complete check the bytesize:**  
+*ls -lrt hadoop-3.3.0.tar.gz*  
+*-rw-r--r-- 1 ubuntu_bash ubuntu_bash 500749234 Jul 15  2020 hadoop-3.3.0.tar.gz*  
