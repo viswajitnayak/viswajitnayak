@@ -39,3 +39,6 @@ Error: A fatal exception has occurred. Program will exit.
 
 **Running linux ubuntru distro with different user rather than default:**  
 *wsl.exe -d Ubuntu -u \<username\>*  
+
+**Download Hadoop binary**  
+You can find hadoop latest releases from here [Hadoop latest releases](https://hadoop.apache.org/releases.html "Hadoop latest releases from Apache").
