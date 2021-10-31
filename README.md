@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on Data Engineering and AI/ML Projects.   
 🤔 I’m looking for help with open sourcing and freelancing.  
 📫 How to reach me:  
-  primary mail : codewithviswajit@gmail.com  
-  secondary mail : viswajit4u@gmail.com  
+  primary mail : *codewithviswajit@gmail.com*  
+  secondary mail : *viswajit4u@gmail.com*  
 #### Technology Stack used
 **ETL Tools** : Ab Initio, Talend, Informatica  
 **Database** : Oracle, MS SQL Server, MySQL  
