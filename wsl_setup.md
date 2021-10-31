@@ -45,3 +45,22 @@ You can find hadoop latest releases from here [Hadoop latest releases](https://h
 
 **Copy the mirror link name like below**  
 https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.1/hadoop-3.3.1-src.tar.gz
+
+**Install ssh with the below command:**  
+*sudo apt-get install ssh*  
+
+**If you get error like below, you need to add the user you want to give sudo access:**  
+*ubuntu_bash is not in the sudoers file.  This incident will be reported.*  
+
+**The path for sudoer file is below**  
+*/etc/sudoers*  
+
+
+**sudo acess can be given by replicating the new user in sudoer file like below:**  
+*# User privilege specification*  
+*root    ALL=(ALL:ALL) ALL*  
+*ubuntu_bash ALL=(ALL:ALL) ALL*  
+
+**For doing sudo login by any other user having root access. The sudo command for changing to root is :**  
+*sudo su*  
+
