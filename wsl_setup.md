@@ -26,3 +26,6 @@ java -version
 **Examples:**  
 *sudo adduser ubuntu_ksh*  
 *sudo adduser ubuntu_bash*  
+
+**Running linux ubuntru distro with different user rather than default:**  
+*wsl.exe -d Ubuntu -u \<username\>*  
