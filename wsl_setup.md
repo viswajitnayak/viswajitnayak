@@ -41,4 +41,7 @@ Error: A fatal exception has occurred. Program will exit.
 *wsl.exe -d Ubuntu -u \<username\>*  
 
 **Download Hadoop binary**  
-You can find hadoop latest releases from here [Hadoop latest releases](https://hadoop.apache.org/releases.html "Hadoop latest releases from Apache").
+You can find hadoop latest releases from here [Hadoop latest releases](https://hadoop.apache.org/releases.html "Hadoop latest releases from Apache").  
+
+**Copy the mirror link name like below**  
+https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.1/hadoop-3.3.1-src.tar.gz
