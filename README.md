@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on IHUB project with Wells Fargo bank, Hyderabad. I am also enrollled in PG program on AI/ML.
-🌱 I’m currently learning DevOps and Cloud as my aspirational skills.
-👯 I’m looking to collaborate on Data Engineering and AI/ML Projects. 
-🤔 I’m looking for help with open sourcing and freelancing.
-📫 How to reach me: primary mail --> codewithviswajit@gmail.com, secondary mail --> viswajit4u@gmail.com
+🔭 I’m currently working on IHUB project with Wells Fargo bank, Hyderabad. I am also enrollled in PG program on AI/ML.  
+🌱 I’m currently learning DevOps and Cloud as my aspirational skills.  
+👯 I’m looking to collaborate on Data Engineering and AI/ML Projects.   
+🤔 I’m looking for help with open sourcing and freelancing.  
+📫 How to reach me:  
+  primary mail : codewithviswajit@gmail.com  
+  secondary mail : viswajit4u@gmail.com  
