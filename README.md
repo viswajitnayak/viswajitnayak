@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 📫 How to reach me:  
   primary mail : codewithviswajit@gmail.com  
   secondary mail : viswajit4u@gmail.com  
+#### Technology Stack used
+**ETL Tools** : Ab Initio, Talend, Informatica  
+**Database** : Oracle, MS SQL Server, MySQL  
+**Programming Languages** : Java, Python  
+**Scripting Languages** : Korn Shell, Bash Shell, Powershell 
