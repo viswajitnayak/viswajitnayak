@@ -64,3 +64,5 @@ https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.1/hadoop-3.3.1-sr
 **For doing sudo login by any other user having root access. The sudo command for changing to root is :**  
 *sudo su*  
 
+**Download the latest binary from internet**  
+*wget http://mirror.intergrid.com.au/apache/hadoop/common/hadoop-3.3.0/hadoop-3.3.0.tar.gz*
