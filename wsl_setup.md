@@ -73,3 +73,8 @@ https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.1/hadoop-3.3.1-sr
 **For doing sudo login by any other user having root access. The sudo command for changing to root is :**  
 *sudo su*  
 
+**Fixed WSL sshd: no hostkeys available -- exiting**  
+**ssh-keygen -A**  
+**In the /etc/ssh/ folder, and then restart the server by:** 
+
+*sudo service ssh --full-restart*  
