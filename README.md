@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 
 
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=viswajitnayak&show_icons=true&theme=gotham" alt="viswajit" />
