@@ -30,14 +30,17 @@ Here are some ideas to get you started:
 **Scheduling tools** : Autosys  
 
 
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-**📈 my github stats
+** **  
+
+**📈 my github stats**  
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=viswajitnayak&show_icons=true&theme=gotham" alt="viswajit" />
   
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
- <p align="center"> 
+** **    
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/viswajitnayak/count.svg" />
 </p> 
