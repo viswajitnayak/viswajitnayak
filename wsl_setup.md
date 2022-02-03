@@ -64,6 +64,8 @@ https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.1/hadoop-3.3.1-sr
 **The path for sudoer file is below**  
 */etc/sudoers*  
 
+**Change default shell of user to ANY shell**  
+*sudo usermod --shell $(which <shell_name>) <user_name>*  
 
 **sudo acess can be given by replicating the new user in sudoer file like below:**  
 *# User privilege specification*  
