@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 **ETL Tools** : Ab Initio, Talend, Informatica  
 **Database** : Oracle, MS SQL Server, MySQL  
 **Programming Languages** : C++, Java, Python  
-**Scripting Languages** : Korn Shell, Bash Shell, PowerShell Core
+**Scripting Languages** : Korn Shell, Bash Shell, PowerShell Core  
 **Scheduling tools** : Autosys  
 
 
