@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 🌱 I am currently working as a Senior Data Engineer.  
 👯 Fell in love with coding really late. But better late than never.  
 🤔 Mouseless Developer it is.  
-📫 How to reach me:  
-  primary mail : *codewithviswajit@gmail.com*  
-  secondary mail : *viswajit4u@gmail.com*  
+📫 How to reach me:  *codewithviswajit@gmail.com*  
+
 #### Technology Stack used
 **ETL Tools** : Ab Initio, Talend, Informatica  
 **Database** : Oracle, MS SQL Server, MySQL  
