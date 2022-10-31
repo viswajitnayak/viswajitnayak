@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🔭 Open source enthusiast and penguinista.  
-🌱 I am curretnly working as a Senior Data Engineer.  
-👯 Fel in love with coding really late. But better late than never.
-🤔 Mouseless Developer it is.
+🌱 I am currently working as a Senior Data Engineer.  
+👯 Fell in love with coding really late. But better late than never.  
+🤔 Mouseless Developer it is.  
 📫 How to reach me:  
   primary mail : *codewithviswajit@gmail.com*  
   secondary mail : *viswajit4u@gmail.com*  
