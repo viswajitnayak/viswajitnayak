@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Open source enthusiast and penguinista. 
+🔭 Open source enthusiast and penguinista.  
 🌱 I am curretnly working as a Senior Data Engineer.  
 👯 Fel in love with coding really late. But better late than never.
 🤔 Mouseless Developer it is.
