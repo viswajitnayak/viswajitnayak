@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 Open source enthusiast and penguinista. 
-🌱 I am curretnly working as a Senior Data Engineer.
+🌱 I am curretnly working as a Senior Data Engineer.  
 👯 Fel in love with coding really late. But better late than never.
 🤔 Mouseless Developer it is.
 📫 How to reach me:  
